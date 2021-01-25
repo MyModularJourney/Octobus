@@ -1,2 +1,3 @@
 # Octobus
-Eurorack PSU based on "Wall Wart Power Supply"
+Eurorack PSU based on MFOS "Wall Wart Power Supply".
+For educational and personal use only.
